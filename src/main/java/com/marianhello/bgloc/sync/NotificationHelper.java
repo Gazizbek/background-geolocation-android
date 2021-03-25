@@ -21,8 +21,8 @@ public class NotificationHelper {
     public static final String ANDROID_PERMISSIONS_CHANNEL_ID = "android-permissions";
 
     public static final String SYNC_CHANNEL_ID = "syncservice";
-    public static final String SYNC_CHANNEL_NAME = "Sync Service";
-    public static final String SYNC_CHANNEL_DESCRIPTION = "Shows sync progress";
+    public static final String SYNC_CHANNEL_NAME = "Синхронизация";
+    public static final String SYNC_CHANNEL_DESCRIPTION = "Синхронизация данных геолокации";
 
     public static class NotificationFactory {
         private Context mContext;
